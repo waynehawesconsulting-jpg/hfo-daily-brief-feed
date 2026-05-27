@@ -1,0 +1,9 @@
+# OS noise
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Local Claude Code tooling state — never commit
+.claude/
