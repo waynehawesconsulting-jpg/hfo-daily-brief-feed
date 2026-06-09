@@ -13,7 +13,7 @@
       <link>https://waynehawesconsulting-jpg.github.io/hfo-daily-brief-feed/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 09:22:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 09:22:21 +0000</lastBuildDate>
     <itunes:author>Hawes Family Office</itunes:author>
     <itunes:image href="https://waynehawesconsulting-jpg.github.io/hfo-daily-brief-feed/assets/cover-art-3000.png"/>
     <itunes:explicit>no</itunes:explicit>
@@ -121,6 +121,13 @@
       <guid isPermaLink="false">ep-2026-06-08</guid>
       <enclosure url="https://github.com/waynehawesconsulting-jpg/hfo-daily-brief-feed/releases/download/ep-2026-06-08/2026-06-08.mp3" length="5788032" type="audio/mpeg"/>
       <pubDate>Mon, 08 Jun 2026 05:22:11 -0400</pubDate>
+      <itunes:image href="https://waynehawesconsulting-jpg.github.io/hfo-daily-brief-feed/assets/cover-art-3000.png"/>
+    </item>
+    <item>
+      <title>HFO Daily Brief — June 9, 2026</title>
+      <guid isPermaLink="false">ep-2026-06-09</guid>
+      <enclosure url="https://github.com/waynehawesconsulting-jpg/hfo-daily-brief-feed/releases/download/ep-2026-06-09/2026-06-09.mp3" length="6220800" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Jun 2026 05:22:18 -0400</pubDate>
       <itunes:image href="https://waynehawesconsulting-jpg.github.io/hfo-daily-brief-feed/assets/cover-art-3000.png"/>
     </item>
   </channel>
